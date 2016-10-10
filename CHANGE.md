@@ -5,6 +5,7 @@ Change Log: `yii2-widget-datetimepicker`
 
 **Date:** 09-Jul-2016
 
+- (enh #65): Add Hindi and Gujarati Translations.
 - (enh #51): Update to latest release of the bootstrap-datetimepicker plugin.
 
 ## Version 1.4.2
